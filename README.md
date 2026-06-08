@@ -4,6 +4,7 @@ This is a blank Next.js App Router starter that includes:
 
 - `SEO.md` and `SEO.REVERSE.md`
 - `AGENTS.md` (minimal pointer for agents)
+- `SKILL.md` (agent instruction card for automatic setup)
 - `DESIGN.md` (intentionally minimal)
 - `USAGE.md` (Netlify deploy-time instructions)
 - `.seomd/` directory reserved for platform writebacks
@@ -20,6 +21,10 @@ This is a blank Next.js App Router starter that includes:
 npm install
 npm run dev
 ```
+
+## Automatic Setup with an Agent
+
+If you're using a coding agent (OpenClaw, Hermes, Claude Code, etc.), you can use `SKILL.md` to have the agent configure this starter completely automatically. Just point the agent at this repository and tell it to use the SEO.md Starter Setup Skill.
 
 ## Next Steps
 
