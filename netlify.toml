@@ -1,0 +1,11 @@
+[template]
+  description = "Next.js starter with SEO.md + agent docs"
+
+[template.environment]
+  SEOMD_API_URL = "Optional: SEO.md provider API base URL"
+  SEOMD_API_KEY = "Optional: provider API key for writebacks"
+  SEOMD_PAYMENT_TOKEN = "Optional: agent-native pay-per-scan token"
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"
+
