@@ -3,11 +3,13 @@
 **What this does**
 Sets up this SEO.md Next.js starter completely automatically, from initial config to validated deployment-ready state.
 
+**Hosted at**: https://seomd.dev/templates/SKILL.md
+
 ---
 
 ## How to Use This Skill
 1. Open this repository with your coding agent
-2. Make sure the agent can read this `SKILL.md` file
+2. Paste this URL into your agent: https://seomd.dev/templates/SKILL.md
 3. Tell your agent: "Use the SEO.md Starter Setup Skill to configure this project"
 
 ---
