@@ -10,10 +10,9 @@ This is a blank Next.js App Router starter that includes:
 
 ## Deploy
 
-- Vercel:
-  - https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fseomd%2Fstarter-next
-- Netlify:
-  - https://app.netlify.com/start/deploy?repository=https://github.com/seomd/starter-next&fullConfiguration=true
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fseomd%2Fstarter-next)
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/seomd/starter-next&fullConfiguration=true)
 
 ## Local Dev
 
