@@ -5,6 +5,12 @@
 - Vercel: deploy from the repo root.
 - Netlify: deploy from the repo root (Next.js runtime).
 
+## After Deploy
+
+1. Save required environment variables in your platform project settings (Vercel/Netlify).
+2. Update `SEO.md` and push changes to your repo.
+3. Run `seomd validate` locally to confirm the spec is valid.
+
 ## SEO.md Workflow
 
 1. Edit `SEO.md` with your domain, identity, and intent queries.

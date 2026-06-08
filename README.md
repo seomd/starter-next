@@ -23,5 +23,6 @@ npm run dev
 
 ## Next Steps
 
-- Edit `SEO.md` for your domain and intent queries
+- After deploying, set env vars in your platform project settings (Vercel/Netlify) using `.env.example` as a reference
+- Edit `SEO.md` for your domain and intent queries, then commit/push
 - Follow `USAGE.md` for CLI validation and sync/analyze flows
